@@ -1,3 +1,6 @@
+//aviso para abrir consola
+alert('Para poder ver los resultados..\ndebes abrir las herramientas del desarrollador \ny entrar al apartado -CONSOLA-.\n(Pulsa la tecla F12).')
+
 let listaGenerica = [];
 let lenguagesDeProgramacion = ['PHP', 'JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
 lenguagesDeProgramacion.push('Java', 'Ruby', 'GoLang');
